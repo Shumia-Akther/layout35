@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    height: 100px;
+    background-color: orange;
+    text-align: center;
+
+}
+.nav{
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+
+}
+.content{
+    height: 400px;
+    background-color: sienna;
+    display: flex;
+
+
+}
+.left_side{
+    width: 40%;
+    background-color: chartreuse;
+
+}
+.aside_one{
+    height: 33.3%;
+    background-color: aquamarine;
+
+}
+.aside_two{
+    height: 33.3%;
+    background-color: rgb(255, 0, 170);
+
+}
+.aside_three{
+    height: 33.3%;
+    background-color: yellow;
+
+}
+.right_side{
+    width: 60%;
+    background-color: chartreuse;
+    text-align: center;
+
+}
+.footer{
+    height: 100px;
+    background-color: rgb(255, 0, 170);
+    text-align: center;
+
+}
